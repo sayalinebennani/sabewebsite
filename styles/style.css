@@ -1,0 +1,54 @@
+@import	"banner.css";
+@import "footer.css";
+@import "cards.css";
+@import "header.css";
+
+body {
+	margin: 0;
+	background-color: ;
+}
+
+.button {
+  background-color: rgb(247, 90, 27);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+  p{ 
+    text-align: justify;
+    margin-right: 100px;
+    margin-left: 100px;
+    color: black;
+  }
+
+  h1{ 
+    text-align: center;
+  }
+
+  h4{ 
+    font-weight: normal;
+    }
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: small;
+  margin-top: small;
+  width: 30%;
+}
+
+
+  .container{
+  clear:both;
+  overflow:auto;
+}
+
+
+
+
